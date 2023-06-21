@@ -1,5 +1,5 @@
 {
-  "name": "vue-20-todomvc",
+  "name": "nodejs_crash_course",
   "version": "1.0.0",
   "description": "This is a fully spec-compliant TodoMVC implementation in under 120 effective lines of JavaScript (excluding comments and blank lines).",
   "main": "index.html",
@@ -13,7 +13,7 @@
     "nodemon": "^2.0.12",
     "serve": "^11.2.0"
   },
-  "author": "HWatanabe",
+  "author": "author",
   "dependencies": {
     "uuid": "^8.3.2"
   }
